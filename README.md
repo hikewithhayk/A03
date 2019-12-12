@@ -17,3 +17,6 @@ IS117 Assignment #3: Explains how to use Github
 
 1. **Commit:**
     records a change to the repository with a comment without updating the repository
+    
+1. **Push:**
+    uploads all the recently saved Commits to the repository from the local directory
