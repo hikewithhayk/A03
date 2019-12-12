@@ -20,3 +20,6 @@ IS117 Assignment #3: Explains how to use Github
     
 1. **Push:**
     uploads all the recently saved Commits to the repository from the local directory
+    
+1. **Pull:**
+    updates the local directory with the latest changes from the repository
