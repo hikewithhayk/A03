@@ -11,3 +11,6 @@ IS117 Assignment #3: Explains how to use Github
 
 1. **Repository:**
     a storage place on Github that stores all appropriate files of a project
+    
+1. **Clone:**
+    creates a copy of the original repository in a different directory
