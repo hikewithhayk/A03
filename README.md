@@ -27,5 +27,8 @@ IS117 Assignment #3: Explains how to use Github
 <dt>Branch:</dt>
     <dd>a copy of the original repository that can be modified without impacting the original files. Primarily used for testing new features and/or working on future updates.</dd>
 
+<dt>Merge:</dt>
+    <dd>unites two branches together, specifically the master branch and the other branch. This allows the collaborators to implement their new code into the existing version</dd>
+
 </dl>
         
