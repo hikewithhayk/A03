@@ -23,3 +23,6 @@ IS117 Assignment #3: Explains how to use Github
     
 1. **Pull:**
     updates the local directory with the latest changes from the repository
+    
+1. **Branch:**
+    a copy of the original repository that can be modified without impacting the original files. Primarily used for testing new features and/or working on future updates.
