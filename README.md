@@ -14,3 +14,6 @@ IS117 Assignment #3: Explains how to use Github
     
 1. **Clone:**
     creates a copy of the original repository in a different directory
+
+1. **Commit:**
+    records a change to the repository with a comment without updating the repository
