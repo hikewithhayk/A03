@@ -36,7 +36,7 @@ IS117 Assignment #3: Explains how to use Github
 <dt>Fetch:</dt>
     <dd>the fetch command allows you to review the latest changes from the remote repo before applying them to your local repo</dd>
 
-<dt>Remote</dt>
+<dt>Remote:</dt>
     <dd>shows a list of existing remotes whose branches you track</dd>
 </dl>
         
