@@ -32,5 +32,9 @@ IS117 Assignment #3: Explains how to use Github
 
 <dt>Merge Conflict:</dt>
     <dd>merge conflicts require a manual review and often happen when the same line of code has competing changes from multiple users or if an editted file is deleted before the edit is merged</dd>
+
+<dt>Fetch:</dt>
+    <dd>the fetch command allows you to review the latest changes from the remote repo before applying them to your local repo</dd>
+
 </dl>
         
