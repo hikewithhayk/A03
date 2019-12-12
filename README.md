@@ -9,3 +9,5 @@ IS117 Assignment #3: Explains how to use Github
 1. **Github:**
     a website for hosting projects that use Git for their version control. It allows source code management and other collaborative features.
 
+1. **Repository:**
+    a storage place on Github that stores all appropriate files of a project
